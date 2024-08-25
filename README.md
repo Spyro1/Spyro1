@@ -11,6 +11,15 @@
 
 - 🥸 Likes to suck with **Arduino Debugging**
 
+<h3 align="left"> My projects: </h3>
+
+- [Automatic Sprinkler System](https://github.com/Spyro1/SprinkleSystem) with Arduino
+
+- [BASIC-lite interpreter](https://github.com/Spyro1/Basic-Lite-Interpreter) in C++
+
+- [Sokoban](https://github.com/Spyro1/Sokoban) in C
+
+
 <p align="left">
 </p>
 
