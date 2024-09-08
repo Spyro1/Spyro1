@@ -1,24 +1,25 @@
-<h1 align="center">Hi 👋, I'm Marton Szenes alias Spyro1</h1>
+<h1 align="center">Hi 👋, I'm Marton Szenes alias Spyro</h1>
 <h3 align="center">A logical thinker and a passionate developer from Hungary</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyro1&label=Profile%20views&color=0e75b6&style=flat" alt="spyro1" /> </p>
 
-- 🔭 I’m currently working on a [Automatic Sprinkler System](https://github.com/Spyro1/SprinkleSystem)
+- 🔭 I’m currently working on a my University project called [Vault-Vader](https://github.com/Spyro1/Vault-Vader) which will be a password maganger application.
 
-- 🌱 I’m currently learning **Python and C++**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **Funky problems**
+- 💬 Ask me about **Funky problems** and anything curious about our world
 
 - 🥸 Likes to suck with **Arduino Debugging**
 
 <h3 align="left"> My projects: </h3>
+
+- [Vault Vader](https://github.com/Spyro1/Vault-Vader) in Java
 
 - [Automatic Sprinkler System](https://github.com/Spyro1/SprinkleSystem) with Arduino
 
 - [BASIC-lite interpreter](https://github.com/Spyro1/Basic-Lite-Interpreter) in C++
 
 - [Sokoban](https://github.com/Spyro1/Sokoban) in C
-
 
 <p align="left">
 </p>
