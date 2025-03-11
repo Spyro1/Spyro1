@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyro1&label=Profile%20views&color=0e75b6&style=flat" alt="spyro1" /> </p>
 
-- 🔭 I’m currently working on a my University project called [Vault-Vader](https://github.com/Spyro1/Vault-Vader) which will be a password maganger application.
+- 🔭 I’m currently working on a my University project in Kotlin, which will be a expense tracker web application.
 
 - 🌱 I’m currently learning **Java**
 
