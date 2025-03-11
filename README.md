@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a my University project in Kotlin, which will be a expense tracker web application.
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Funky problems** and anything curious about our world
 
