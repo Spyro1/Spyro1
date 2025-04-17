@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marton Szenes alias Spyro</h1>
 <h3 align="center">A logical thinker and a passionate developer from Hungary</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=spyro1&label=Profile%20views&color=0e75b6&style=flat" alt="spyro1" /> </p>
-
-- 🔭 I’m currently working on a my University project in Kotlin, which will be a expense tracker web application.
+- 🔭 I’m currently working on a my University project in Kotlin, which will be a [Game Of Life Compose Desktop](https://github.com/Spyro1/GameOfLife-kotlin) application.
 
 - 🌱 I’m currently learning **Kotlin**
 
@@ -13,6 +11,8 @@
 
 <h3 align="left"> My projects: </h3>
 
+- [Game Of Life](https://github.com/Spyro1/GameOfLife-kotlin) simulation in Kotlin with Compose Desktop
+
 - [Vault Vader](https://github.com/Spyro1/Vault-Vader) in Java
 
 - [Automatic Sprinkler System](https://github.com/Spyro1/SprinkleSystem) with Arduino
@@ -21,8 +21,8 @@
 
 - [Sokoban](https://github.com/Spyro1/Sokoban) in C
 
-<p align="left">
-</p>
+
+Check out my [website](https://spyro1.github.io) if you're interested.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
