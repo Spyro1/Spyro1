@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyro1" alt="spyro1" /></a> </p> -->
 
-- 🔭 I’m currently working on [BecskasszaSCH 2](https://git.sch.bme.hu/kszk/devteam/becskasszasch-2), a Smart Admin & Transaction System which is a collaboration project in KSZK (Dormitory IT group).
+- 🔭 I’m currently working on [BecskasszaSCH 2](https://git.sch.bme.hu/kszk/devteam/becskasszasch-2), a Smart Admin & Transaction System which is a collaboration project in KSZK (Dormitory IT Group).
 
 - 🌱 I’m currently learning **React**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Funky problems and anything curious about our world**
 
-- 📫 How to reach me **szenes.marton.miklos@kszk.bme.hu**
+- 📫 How to reach me: **szenes.marton.miklos@kszk.bme.hu**
 
 - ⚡ Fun fact **I like to play the Piano**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left"> My projects: </h3>
 
-- [BecsaksszaSCH 2](https://git.sch.bme.hu/kszk/devteam/becskasszasch-2) is Smart Admin & Transaction System made with Python Flask backend and HTML-Bootstrap frontend
+- [BecsaksszaSCH 2](https://git.sch.bme.hu/kszk/devteam/becskasszasch-2) is a Smart Admin & Transaction System made with Python Flask backend and HTML-Bootstrap-CSS-JS frontend
 
 - [Game Of Life](https://github.com/Spyro1/GameOfLife-kotlin) simulation in Kotlin with Compose Desktop
 
@@ -37,7 +37,7 @@ Check out my [website](https://spyro1.github.io) if you're interested.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/márton-miklós-szenes-8032a433b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="márton-miklós-szenes-8032a433b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/márton-szenes-8032a433b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="márton-miklós-szenes-8032a433b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
