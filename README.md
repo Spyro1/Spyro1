@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Marton Szenes alias Spyro</h1>
 <h3 align="center">A logical thinker and a passionate developer from Hungary</h3>
 
-- 🔭 I’m currently working on a my University project in Kotlin, which will be a [Game Of Life Compose Desktop](https://github.com/Spyro1/GameOfLife-kotlin) application.
-
-- 🌱 I’m currently learning **Kotlin**
+- 🔭 I’m currently working on BecsaksszaSCH 2, a Smart Admin & Transaction System which is a collaboration project in KSZK (Dormitory IT group).
+- 🌱 I’m currently learning **React**.
 
 - 💬 Ask me about **Funky problems** and anything curious about our world
 
 - 🥸 Likes to suck with **Arduino Debugging**
 
 <h3 align="left"> My projects: </h3>
+
+- [BecsaksszaSCH 2](https://git.sch.bme.hu/kszk/devteam/becskasszasch-2) is Smart Admin & Transaction System made with Python Flask backend and HTML-Bootstrap frontend
 
 - [Game Of Life](https://github.com/Spyro1/GameOfLife-kotlin) simulation in Kotlin with Compose Desktop
 
