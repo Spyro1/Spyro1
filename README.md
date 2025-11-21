@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyro1" alt="spyro1" /></a> </p> -->
 
-- 🔭 I’m currently working on [BecskasszaSCH 2](https://git.sch.bme.hu/kszk/devteam/becskasszasch-2), a Smart Admin & Transaction System which is a collaboration project in KSZK (Dormitory IT Group).
+- 🔭 I’m currently working on [KareoQ](https://github.com/Spyro1/KareoQ), a virtual Kareoke Queueing system for events.
 
 - 🌱 I’m currently learning **React**
 
@@ -20,6 +20,8 @@
 - 🥸 Likes to suck with **Arduino Debugging**
 
 <h3 align="left"> My projects: </h3>
+
+- [KareoQ](https://github.com/Spyro1/KareoQ) made with React and Python Fast API for a virtual Kareoke Queueing system for events
 
 - [BecsaksszaSCH 2](https://git.sch.bme.hu/kszk/devteam/becskasszasch-2) is a Smart Admin & Transaction System made with Python Flask backend and HTML-Bootstrap-CSS-JS frontend
 
