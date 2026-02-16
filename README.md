@@ -5,11 +5,11 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyro1" alt="spyro1" /></a> </p> -->
 
-- 🔭 I’m currently working on [KareoQ](https://github.com/Spyro1/KareoQ), a virtual Kareoke Queueing system for events.
+- 🔭 I’m currently working on [BeléptetőSCH frontend](https://git.sch.bme.hu/kszk/belepteto-sch-team/frontend), which is an access control system of the Schönherz dormitory, designed to manage physical entry to community spaces inside the dormitory.
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Kotlin**
 
-- 👯 I’m looking to collaborate on [SzavazoSCH](https://git.sch.bme.hu/kszk/devteam/szavazosch)
+- 👯 I’m looking to collaborate on [BeléptetőSCH](https://git.sch.bme.hu/kszk/belepteto-sch-team/frontend)
 
 - 💬 Ask me about **Funky problems and anything curious about our world**
 
