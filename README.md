@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Marton Szenes alias Maxi</h1>
-<h3 align="center">A logical thinker and a passionate developer from Hungary</h3>
+<h3 align="center">A Passionate Developer from Hungary</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyro1&label=Profile%20views&color=0e75b6&style=flat" alt="spyro1" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spyro1" alt="spyro1" /></a> </p> -->
 
-- 🔭 I’m currently working on [BeléptetőSCH frontend](https://git.sch.bme.hu/kszk/belepteto-sch-team/frontend), which is an access control system of the Schönherz dormitory, designed to manage physical entry to community spaces inside the dormitory.
+- 🔭 I’m currently working on [KasszaSCH](https://git.sch.bme.hu/kszk/belepteto-sch-team/frontend), which is an advanced transaction, inventory, membership and role management system. It handels day-to-day user purchases from groups in our University.
 
-- 🌱 I’m currently learning **React and Kotlin**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [BeléptetőSCH](https://git.sch.bme.hu/kszk/belepteto-sch-team/frontend)
+- 👯 I’m proud of our collaboration in [BeléptetőSCH](https://git.sch.bme.hu/kszk/belepteto-sch-team/frontend) with Bendeguz Kardos!
 
 - 💬 Ask me about **Funky problems and anything curious about our world**
 
@@ -17,9 +17,13 @@
 
 - ⚡ Fun fact **I like to play the Piano**
 
-- 🥸 Likes to suck with **Arduino Debugging**
+- 🥸 Likes to design **fancy UI**
 
 <h3 align="left"> My projects: </h3>
+
+- [KasszaSCH](https://git.sch.bme.hu/kszk/devteam/kasszasch) a day-to-day user purchase and transaction management system with advanced inventory and role handeling
+
+- [BeléptetőSCH](https://git.sch.bme.hu/kszk/belepteto-sch-team/frontend) frontend made in React and collaborated with Bendeguz Kardos who were working on the backend and many more people
 
 - [KareoQ](https://github.com/Spyro1/KareoQ) made with React and Python Fast API for a virtual Kareoke Queueing system for events
 
