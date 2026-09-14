@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Márton Szenes (Maxi) 👋</h1>
-  <p><strong>Full-Stack Software Engineer & CS Engineering Student from Budapest, Hungary</strong></p>
+  <p><strong>Full-Stack Software Engineer & Computer Science Engineering Student from Hungary</strong></p>
 
   <p>
     <a href="mailto:szenes.marton.miklos@kszk.bme.hu"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
