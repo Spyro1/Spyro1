@@ -40,10 +40,12 @@
 | :--- | :--- | :--- | :--- |
 | **KasszaSCH** | Transaction, balance, and role-based inventory management system for university groups. | Python, FastAPI, React | [Repo](https://git.sch.bme.hu/kszk/devteam/kasszasch) |
 | **BeléptetőSCH** | Dormitory access control platform built collaboratively for campus administration. | React, TypeScript | [Repo](https://git.sch.bme.hu/kszk/belepteto-sch-team/frontend) |
+| **Levlista-Service** | A backend service for managing mailing lists within AdminSCH. Serves 10,000+ users in production. | Python, FastAPI, Google Admin SDK API | [Repo](https://git.sch.bme.hu/kszk/adminsch-ng/services/levlista-service) (Private) |
+| **Notification-Service** | An AdminSCH backend service for third-party projects to send notifications through this service to the users. | Python, FastAPI, Google Gmail API | [Repo](https://git.sch.bme.hu/kszk/adminsch-ng/services/notification-service) (Private) |
 | **KareoQ** | Virtual live queue management app designed for event karaoke setups. | React, FastAPI | [GitHub](https://github.com/Spyro1/KareoQ) |
 | **BecskasszaSCH 2** | Smart admin ledger and inventory tracking system. | Python, Flask, Bootstrap | [Repo](https://git.sch.bme.hu/kszk/devteam/becskasszasch-2) |
 | **Game of Life** | Interactive Conway's Game of Life desktop simulator. | Kotlin, Compose Multiplatform | [GitHub](https://github.com/Spyro1/GameOfLife-kotlin) |
-| **Vault Vader** | Grid-based puzzle-adventure game built with standard OOP architecture. | Java | [GitHub](https://github.com/Spyro1/Vault-Vader) |
+| **Vault Vader** | Password and Note manager in Java Swing with standard OOP architecture. | Java | [GitHub](https://github.com/Spyro1/Vault-Vader) |
 
 <details>
   <summary><strong>View more embedded & low-level projects</strong></summary>
